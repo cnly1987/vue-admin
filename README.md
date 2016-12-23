@@ -61,8 +61,6 @@ Its ongoing development is made possible thanks to the support by these awesome 
   Launch Vue Admin as a desktop application! Please check [Run Project with Electron](https://github.com/vue-bulma/vue-admin/wiki/Guide#run-project-with-electron)
 
 
----
-
 ## Maintainers
 + [fundon](https://github.com/fundon) &nbsp;&middot;&nbsp; [fundon.me](https://fundon.me) &nbsp;&middot;&nbsp; [Twitter@fundon](https://twitter.com/_fundon)
 + [luventa](https://github.com/luventa)
